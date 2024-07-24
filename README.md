@@ -1,3 +1,3 @@
 # github-demo
-This is m first Git Repository
-Auther - Ashmit Anand
+This is my first Git Repository
+Author - Ashmit Anand
